@@ -24,9 +24,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sitio web personal, donde comparto mi trabajo y otros detalles
 domain: juanzagor.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://juanzagor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://juanzago.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+
 twitter_username: juanzagor
 github_username:  juanzagor
+instagram_username: juan.zago
+mastodon:
+  - username: juanzago
+    instance: mastodon.social
 
 # Build settings
 theme: minima
